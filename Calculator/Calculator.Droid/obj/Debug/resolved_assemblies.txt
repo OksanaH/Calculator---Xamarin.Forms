@@ -32,12 +32,12 @@ C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calc
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.ComponentModel.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Reflection.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Threading.dll
-C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\Users\Oxana\Documents\Programming\GitHub\Xamarin\XAM130\Exercise 1\Start\Calculator\Calculator.Droid\obj\Debug\android\assets\System.Reflection.Primitives.dll
